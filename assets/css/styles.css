@@ -8,7 +8,7 @@
 --powder-petal: #e7cfbcff;
 }
 
-html {
+body {
 background-color: var(--light-caramel);
 }
 h1 {

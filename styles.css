@@ -1,0 +1,20 @@
+/* styles.css */
+:root {
+/* CSS HEX */
+--vintage-lavender: #966b9dff;
+--dusty-rose: #c98686ff;
+--light-caramel: #f2b880ff;
+--seashell: #fff4ecff;
+--powder-petal: #e7cfbcff;
+}
+
+body {
+background-color: var(--light-caramel);
+}
+h1 {
+  color: var(--seashell);
+}
+
+.col {
+  border: 1px solid red;
+}

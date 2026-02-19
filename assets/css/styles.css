@@ -14,3 +14,7 @@ background-color: var(--light-caramel);
 h1 {
   color: var(--seashell);
 }
+
+.col {
+  border: 1px solid red;
+}

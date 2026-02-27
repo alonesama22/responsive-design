@@ -9,10 +9,10 @@
 }
 
 body {
-background-color: var(--light-caramel);
+background-color: var(--dusty-rose);
 }
 h1 {
-  color: var(--seashell);
+  color: var(--light-carame);
 }
 
 .col {
